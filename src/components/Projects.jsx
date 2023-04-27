@@ -24,7 +24,7 @@ const Projects = () => {
           <p>This is a full stack web application written in an Express and Sequlize framework, deployed to Heroku.</p>
          
           </Link>
-        <Link to='https://calculatorjb.herokuapp.com/#' className='links'  >
+        <Link to='https://github.com/Jbiske/calculatorJB-/' className='links'  >
           <h2>REACT Calculator</h2>
           <p>A Calculator made from scratch made completely with REACT and and JS </p>
           

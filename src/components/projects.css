@@ -69,3 +69,33 @@
     background-size: cover;
     background-position: center center;
   }
+  .links:nth-of-type(2) {
+    background-image: url('./images/Book.png');
+    background-size: cover;
+    background-position: center center;
+  }
+  .links:nth-of-type(3) {
+    background-image: url('./images/4therecord.png');
+    background-size: cover;
+    background-position: center center;
+  }
+  .links:nth-of-type(4) {
+    background-image: url('./images/cal.jpg');
+    background-size: cover;
+    background-position: center center;
+  }
+  .links:nth-of-type(5) {
+    background-image: url('./images/download.jpg');
+    background-size: cover;
+    background-position: center center;
+  }
+
+  .links:nth-of-type(6) {
+    background-image: url('./images/bible.jpg');
+    background-size: cover;
+    background-position: center center;
+  }
+
+
+
+
