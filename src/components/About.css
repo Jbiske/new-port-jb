@@ -1,0 +1,46 @@
+
+
+
+.about-page {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  flex-direction: row;
+  background-color:  rgb(32, 32, 32);
+}
+
+.about-image img {
+ 
+  width: 50%;
+  height: auto;
+  box-shadow: 0px 2px 15px 2px darkorchid;
+margin-top: 20%;
+margin-left: 20%;
+}
+
+.about-text {
+  color:rgb(180, 7, 180);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width: 50%;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 2px 15px 2px darkorchid;
+  margin-left: 3rem;
+  margin-right: 3%;
+}
+
+.about-text h2 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.about-text p {
+  font-size: 1.7rem;
+  line-height: 1.5;
+  text-align: justify;
+}

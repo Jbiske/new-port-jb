@@ -1,0 +1,71 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  .project-page {
+    
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:  rgb(32, 32, 32);
+    margin-top: 50px;
+  }
+  
+  .header {
+    padding: 10px;
+    color:rgb(180, 7, 180);
+    text-align: center;
+  }
+  
+  .header h1 {
+    font-size: 5rem;
+    margin-top: 2rem;
+  }
+  
+  .links {
+    
+    box-shadow: 0px 2px 15px 2px darkorchid;
+    padding: 2rem;
+    color:pink;
+    margin: 2rem;
+    width: 50%;
+    max-width: 800px;
+  }
+  .links:hover{   transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;}
+  
+  .links h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .links p {
+  
+    font-size: 1.5rem;
+    line-height: 1.5;
+    
+    text-align: center;
+  }
+  
+  .links a {    text-align: center;
+    display: block;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    color: darkorchid;
+  }
+  
+.links-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+.links:nth-of-type(1) {
+    background-image: url('./images/mlb.jpg');
+    background-size: cover;
+    background-position: center center;
+  }
