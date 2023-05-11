@@ -17,7 +17,7 @@ const Contact = () => {
         </a>
       </div>
       <div className='contact-box'>
-        <a href='https://www.linkedin.com/in/jbiske/'>
+        <a href='https://www.linkedin.com/in/josh-biske-9a10a0225/'>
           <img
             src='https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-linkedin-512.png'
             alt='LinkedIn'
