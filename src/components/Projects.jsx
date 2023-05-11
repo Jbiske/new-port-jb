@@ -14,9 +14,9 @@ const Projects = () => {
           <p>A react project using a baseball api to display baseball stats and standings.</p>
          
           </Link>
-        <Link to='https://jbiske.github.io/Novel_Experiences' className='links'  >
-          <h2>Novel Experiences</h2>
-          <p>Small project showcasing uses of APIs</p>
+        <Link to='https://mlbstream-jb.netlify.app/' className='links'  >
+          <h2>MLB Streams</h2>
+          <p>Personal Project used to watch Live MLB games </p>
          
           </Link>
         <Link to='https://github.com/dmevola/4-the-record' className='links'  >
